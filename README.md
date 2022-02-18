@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to this website 
 
-You can use the [editor on GitHub](https://github.com/marcelinebres/marcelinebres.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is an easy to create website showcasing. my work. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+'what result does this give?'
+
+```markdown 
+
+
+let's try this out.. 
+
+```
 
 ### Markdown
 
@@ -12,21 +20,36 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
+pre-post-modern architecture 
+
 ## Header 2
+
+what does it mean to be dutch?
+
 ### Header 3
 
-- Bulleted
-- List
+what does it mean to be modern? 
+
+- internet
+- decentralised 
 
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
+'what result does this give'
+
 [Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+
+
+
+
 
 ### Jekyll Themes
 
